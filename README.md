@@ -1,5 +1,5 @@
 Seminarski projekt
-# Odjeca web shop
+# Završni rad Web Shop
 ASP.NET Core MVC + SQL projekt</br>
 Kratak opis:</br>
 -web trgovina </br>
